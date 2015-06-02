@@ -1,0 +1,31 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/ix_ap_all/32x32/shadow/preferences.png</file>
+    <file>images/ix_ap_all/32x32/shadow/printer3.png</file>
+    <file>images/ix_ap_all/32x32/shadow/document_new.png</file>
+    <file>images/ix_ap_all/32x32/shadow/folder_out.png</file>
+    <file>images/ix_ap_all/32x32/shadow/disk_blue.png</file>
+    <file>images/ix_ap_all/32x32/shadow/folder_new.png</file>
+    <file>images/ix_ap_all/32x32/shadow/exit.png</file>
+    <file>images/ix_ap_all/32x32/shadow/cut.png</file>
+    <file>images/ix_ap_all/32x32/shadow/copy.png</file>
+    <file>images/ix_ap_all/32x32/shadow/paste.png</file>
+
+    <file>images/ix_ap_all/32x32/shadow/refresh.png</file>
+    <file>images/ix_ap_all/32x32/shadow/zoom_in.png</file>
+    <file>images/ix_ap_all/32x32/shadow/zoom_out.png</file>
+    <file>images/ix_ap_all/32x32/shadow/fit_to_size.png</file>
+    <file>images/ix_ap_all/32x32/shadow/nav_up_green.png</file>
+    <file>images/ix_ap_all/32x32/shadow/nav_down_green.png</file>
+    <file>images/ix_ap_all/32x32/shadow/nav_left_green.png</file>
+    <file>images/ix_ap_all/32x32/shadow/nav_right_green.png</file>
+    <file>images/ix_ap_all/32x32/shadow/nav_up_right_green.png</file>
+    <file>images/ix_ap_all/32x32/shadow/nav_up_left_green.png</file>
+    <file>images/ix_ap_all/32x32/shadow/nav_down_right_green.png</file>
+    <file>images/ix_ap_all/32x32/shadow/nav_down_left_green.png</file>
+
+    <file>images/ix_ap_all/32x32/shadow/help.png</file>
+    <file>images/ix_ap_all/32x32/shadow/about.png</file>
+</qresource>
+</RCC>
+
