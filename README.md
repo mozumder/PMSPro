@@ -8,3 +8,4 @@ PMSPro is a software project management system.  The key features are:
   2. Remote database connection.  You can save tasks in a shared remote database for all members of the project to veiw.
   3. Cross-platform.  This was developed with the Qt framework, and was compiled for Mac, Windows, and Linux.
 
+I haven't touched this code at all since 2006, but it's provided as-is. I don't remember if it's usable.
